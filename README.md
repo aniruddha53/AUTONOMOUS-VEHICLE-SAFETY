@@ -21,6 +21,12 @@ Software:
  4. Implemented plane to plane homography using OPenCV to convert the picture frames to a birds-eye-view so as to analyze road-signs
     and avoid potholes.
  
+ Features:
+1. Movement(Forward, Backward, Right, Left)
+2. Image detection
+3. Obstacle avoidance
+4. LED indicators
+
  
  
 

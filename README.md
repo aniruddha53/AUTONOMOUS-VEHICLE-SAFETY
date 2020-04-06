@@ -1,6 +1,6 @@
-# AUTONOMOUS-VEHICLE-SAFETY
-This is a Python - OpenCV based project for safety of autonomous vehicles.  
-Software needed: Python 3.7 : Link : https://www.python.org/downloads/
-Libraries: OpenCv " Link : https://opencv.org/releases/
-Libraries: Adafruit: https://github.com/adafruit/Adafruit-PWM-Servo-Driver-Library
- 
+#
+Objectives
+To have a camera mounted vehicle to detect it’s environment to make future decisions about it’s path.
+Controlling vehicle motion and directions to avoid collisions by monitoring relative speed, position and direction of other vehicles.
+
+

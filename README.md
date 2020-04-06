@@ -1,8 +1,7 @@
 Objective:
   1. Roads are essential to our everyday lives. We all use them in some way, by driving, riding, walking or travelling as a passenger, 
      and we depend on them to obtain goods and services.
-  2. Unfortunately, this comes at a price, which includes people being killed and injured. However, road deaths and injuries are not  
-     inevitable. The last few decades have demonstrated that effective and comprehensive road safety strategies can reduce the number of      people killed or injured on the road, despite increasing traffic levels.
+  2. Unfortunately, this comes at a price, which includes people being killed and injured. However, road deaths and injuries are not inevitable. The last few decades have demonstrated that effective and comprehensive road safety strategies can reduce the number of      people killed or injured on the road, despite increasing traffic levels.
   3. Thus, controlling vehicle motion and directions to avoid collisions by monitoring relative speed, position and direction of other        vehicles to ensure safety of autonomous vehicles is the main objective of this project.
 
 Components Used:

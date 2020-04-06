@@ -13,7 +13,7 @@ Software:
   NumPy
 
  Accomplishments:
- 1. Successfully assembled smart robot car from the scratch.
+ 1. Successfully assembled robot car from the scratch.
  2. Succesfully controlled motion of all the three servo motors and the DC motor which controlled the forward and backward movement
     of the vehicle. 
  3. Successfully detected objects using OpenCV and Picamera. Implemented a Python script such that whenever the vehicle detected an

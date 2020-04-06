@@ -4,7 +4,8 @@ Objective:
   -Unfortunately, this comes at a price, which includes people being killed and injured. However, road deaths and injuries are not  
    inevitable. The last few decades have demonstrated that effective and comprehensive road safety strategies can reduce the number of   
    people killed or injured on the road, despite increasing traffic levels.
-  -Thus, controlling vehicle motion and directions to avoid collisions by monitoring relative speed, position and direction of other vehicles to ensure safety of autonomous vehicles is the main objective of this project.
+  -Thus, controlling vehicle motion and directions to avoid collisions by monitoring relative speed, position and direction of other    
+   vehicles to ensure safety of autonomous vehicles is the main objective of this project.
 
 Components Used:
   Adeept Mars Rover PiCar-B WiFi Smart Robot Car, Raspberry Pi3, Raspberry Pi Camera, 1 DC motor, 3 Servo motors, 2 RGB LEDs

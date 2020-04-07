@@ -18,7 +18,7 @@ Software:
     of the vehicle. 
  3. Successfully detected objects using OpenCV and Picamera. Implemented a Python script such that whenever the vehicle detected an
     object in its path, vehicle takes right or left turn (based on the current lane and position of other objects).
- 4. Implemented plane to plane homography using OPenCV to convert the picture frames to a birds-eye-view so as to analyze road-signs
+ 4. Implemented plane to plane homography using OPenCV to convert the picture frames to a bird's-eye-view so as to analyze road-signs
     and avoid potholes.
  
  Features:
